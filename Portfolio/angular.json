@@ -76,6 +76,8 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
+              "baseHref": "/",
+              "deployUrl": "https://cpark307.github.io/portfolio",
               "browserTarget": "Portfolio:build:production"
             },
             "development": {
