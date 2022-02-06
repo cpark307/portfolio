@@ -77,7 +77,7 @@
           "configurations": {
             "production": {
               "baseHref": "/",
-              "deployUrl": "https://cpark307.github.io/portfolio",
+              "deployUrl": "https://cpark307.github.io/christine-portfolio",
               "browserTarget": "Portfolio:build:production"
             },
             "development": {
