@@ -1,0 +1,11 @@
+{
+    "firstName": "Christine",
+    "lastName": "Park",
+    "intro": [ 
+        "I'm a software developer with a passion for web development. I am currently based in Birmingham, AL. My main focus is building fast, accessible, and beautiful websites for the best user experience.",
+        "Take a look at some of my work here."
+    ],
+    "about": [ 
+        "Hello! My journey into software development is a little unconventional. I originally received a Bachelor's in Chemical Engineering from the University of Notre Dame and worked in the semiconductor industry for 4 years after graduation.",
+        "It was only after spending nearly half a decade in manufacturing that I decided to take a leap of faith and switch to software developemnt. The journey has not been easy but definitely has been fun and interesting. I continue to learn and grow my skills as a developer." ]
+}

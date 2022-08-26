@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Drum Pad Machine",
+        "stack": {
+            "name": "React.js",
+            "iconClasses": "fab fa-react"
+        },
+        "description": "Drum Pad Machine",
+        "previewUrl": "https://codepen.io/cpark307/full/VwpGOXK",
+        "featured": true
+    }
+]
