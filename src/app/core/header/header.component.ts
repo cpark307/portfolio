@@ -16,5 +16,8 @@ export class HeaderComponent {
     { title: 'My Projects', homePath: '/', fragment: 'projects', pagePath: '/projects' },
   ];
 
-  constructor(private bioService: BioService, private headerService: HeaderService) { }
+  constructor(
+    private bioService: BioService,
+    private headerService: HeaderService,
+    ) { }
 }
