@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Inject } from '@angular/core';
 import { BioService } from '../../core/services/bio.service';
 
 @Component({
@@ -14,5 +14,9 @@ export class AboutComponent {
     { viewClasses: 'd-flex d-md-none', headingClass: '', useSmallerHeadings: true }
   ];
 
-  constructor(private bioService: BioService) { }
+  constructor(
+    private bioService: BioService) { }
+  
+  ngOnInit(): void {
+  }
 }

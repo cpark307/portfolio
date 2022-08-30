@@ -1,4 +1,4 @@
-<div class="d-flex min-vh-10 w-100 justify-content-center pb-3 pt-3 pr-4 pl-4">
+<header class="d-flex min-vh-10 w-100 justify-content-center pb-3 pt-3 pr-4 pl-4">
     <div class="d-flex justify-content-start" *ngIf="bio$ | async as bio" routerLink="/">
         <h2 class="font-weight-bold">{{bio.firstName}}</h2>
         <h2 class="font-weight-light">{{bio.lastName}}</h2>
@@ -20,4 +20,4 @@
             </div>
         </div>
     </div>
-</div>
+</header>
