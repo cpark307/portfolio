@@ -8,5 +8,15 @@
         "description": "Drum Pad Machine",
         "previewUrl": "https://codepen.io/cpark307/full/VwpGOXK",
         "featured": true
+    },
+    {
+        "name": "iOS Calculator Replica",
+        "stack": {
+            "name": "React.js",
+            "iconClasses": "fab fa-react"
+        },
+        "description": "iOS Calculator Replica",
+        "previewUrl": "https://codesandbox.io/p/github/cpark307/iOS-Calculator/main?create=true&file=%2FREADME.md",
+        "featured": true
     }
 ]
